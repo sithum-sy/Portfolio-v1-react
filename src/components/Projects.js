@@ -22,6 +22,7 @@ function Projects() {
               href={project.link}
               key={project.image}
               className="sm:w-1/2 w-100 p-4"
+              target="_blank"
             >
               <div className="flex relative">
                 <img

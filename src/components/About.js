@@ -16,7 +16,8 @@ function About() {
             <br />
             My main focuses these days are building web applications with React
             & deep diving into data structures & algorithms (I'm still an
-            undergrad student at UCSC).{" "}
+            undergrad student at UCSC). <br />I have built this website for fun,
+            so please bear with me. I will add some more cooler features soon.
           </p>
           <div className="flex justify-center">
             <a

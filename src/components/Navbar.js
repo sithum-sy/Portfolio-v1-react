@@ -18,7 +18,7 @@ function Navbar() {
             Skills
           </a>
           <a
-            href="https://drive.google.com/file/d/1Bznrvs1pTNbbF4WZWUfzlNesxx70WJR9/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1H4dwCfP6lGQhzEc5OCiRBHgWcxJQZV71/view?usp=drive_link"
             className="mr-5 hover:text-white"
             target="_blank"
             rel="noopener noreferrer"
