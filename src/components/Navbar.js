@@ -24,7 +24,7 @@ function Navbar() {
             rel="noopener noreferrer"
             aria-label="Go to Resumé Page"
           >
-            Resumé
+            My CV
           </a>
 
           {/* <a href="#testimonials" className="mr-5 hover:text-white">
